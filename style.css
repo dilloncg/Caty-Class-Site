@@ -3,6 +3,6 @@ body{
 }
 
 h1{
-  color: blue;
   background: black;
+  text-decoration: line-through;
 }
