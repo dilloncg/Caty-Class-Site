@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <h1>Wandering Lost</h1>
+<p1>I believe there is an art to being lost. It's beautiful
+  to me to wander aimlessly sometimes. Getting lost doesn't
+  have to be in the real world it can be anywhere. I can get
+  lost through google searches, video games, going for a walk,
+  creating a new project, etc. I think I most enjoy the exploration
+  of it all because becoming lost opens up doors.</p1>
+  <h2>Places to Wander</h2>
+  <ul>
+    <li>Google</li>
+    <li>Neighborhoods</li>
+    <li>Parks</li>
+  </ul>
+  <img src="mi.jpg">
+  <a href="https://www.psychologytoday.com/us/blog/metacognition-and-the-mind/201806/getting-lost-and-the-benefits-finding-yourself">Found</a>
+</html>
