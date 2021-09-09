@@ -1,0 +1,23 @@
+img{
+  max-width: 100%;
+}
+
+ p{
+   font-size: 30px;
+   color: blue;
+   font-weight: lighter;
+   background: yellow;
+   border-radius: 20px;
+   text-decoration: line-through;
+   font-style: normal;
+   text-align: justify;
+   font-family: 'Poppins', sans-serif;
+   text-shadow: 2px 2px pink;
+   box-shadow: 10px 12px 20px red;
+ }
+
+ span, green{
+   color: green;
+   font-size: 50px;
+   transform: translate(70px 50%);
+ }

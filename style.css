@@ -1,13 +1,23 @@
 body{
-  background-color: red;
+  background-image: url("webbackground.jpg");
+  background-position: center;
+}
+
+h1{
+  font: 90px helvetica;
+  font-style: oblique;
+  text-align: center;
+  color: white;
+  background: orange;
 }
 
 ul{
   list-style: none;
+  text-align: center;
 }
 
 a{
-  color: black;
+  color: white;
   text-decoration: none;
-  background: blue;
+  background: pink;
 }

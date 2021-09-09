@@ -1,18 +1,30 @@
 <!DOCTYPE html>
 <html>
-  <h1>Wandering Lost</h1>
-<p1>I believe there is an art to being lost. It's beautiful
-  to me to wander aimlessly sometimes. Getting lost doesn't
-  have to be in the real world it can be anywhere. I can get
+  <link rel="stylesheet" href="style.css"/>
+  <h1>WANDERING LOST</h1>
+<p1>I believe there is an <strong>art to being <em>lost.</em></strong> It's beautiful
+  to me to <em>wander aimlessly</em> sometimes. Getting lost doesn't
+  have to be in the real world it can be <strong>anywhere.</strong> I can get
   lost through google searches, video games, going for a walk,
   creating a new project, etc. I think I most enjoy the exploration
-  of it all because becoming lost opens up doors.</p1>
-  <h2>Places to Wander</h2>
-  <ul>
-    <li>Google</li>
-    <li>Neighborhoods</li>
-    <li>Parks</li>
-  </ul>
+  of it all because becoming lost <strong>opens up doors.</strong></p1>
+  <img src="doorr.jpg">
+  <h2>CHILDHOOD STORIES</h2>
   <img src="mi.jpg">
+<p2>There's something fantastic about getting lost.
+  In fairytales the main character will often get
+  hopelessly lost. They usually learn a new lesson.
+  These stories have the character interact with monsters,
+  princesses, wizards, etc. When I get lost I feel like
+  one of these characters I idolized as a child. There's
+  something whimisical about getting lost. Now I wander around
+  craft stores, park trails, neighborhood streets, and anywhere
+  that interests me.</p2>
+  <h3>Places to Wander</h3>
+  <ol>
+    <li><strong>Google</strong></li>
+    <li><em>Neighborhoods</em></li>
+    <li>Parks</li>
+  </ol>
   <a href="https://www.psychologytoday.com/us/blog/metacognition-and-the-mind/201806/getting-lost-and-the-benefits-finding-yourself">Found</a>
 </html>
