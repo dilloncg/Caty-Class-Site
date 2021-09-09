@@ -29,3 +29,10 @@ a{
   padding: 3px;
   background: rgba(230, 50, 90, 0.8)
 }
+
+<!--
+a:hover
+{
+  background-color: white;
+}
+//-->
