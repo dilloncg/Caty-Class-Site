@@ -1,0 +1,68 @@
+img{
+  max-width: 100%;
+}
+
+body{
+  background: lightblue;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+.secret-word{
+  color: purple;
+  text-decoration: none;
+  cursor: cell;
+}
+
+.secret2{
+  width: 200px;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  display: none;
+}
+
+.secret-word:hover .secret2{
+  display: block;
+}
+
+.secret-btn{
+  background: green;
+  padding: 30px;
+  display: inline-block;
+}
+
+.secret-btn:hover{
+  background: red;
+}
+
+.secret{
+  width: 200px;
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  opacity: 0;
+}
+
+.secret-btn:hover + .secret{
+  opacity: 1;
+}
+
+.object{
+  background: red;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: fixed;
+  top: 400px;
+  left: 50%;
+  transition: background 1s, border-radius 2s, transform 1s;
+}
+
+.object:hover{
+  background: yellow;
+  border-radius: 0;
+  transform: scale(1.3);
+}
