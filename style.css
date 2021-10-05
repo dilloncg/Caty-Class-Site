@@ -26,16 +26,13 @@ a{
   font: 45px helvetica;
   color: white;
   text-decoration-line: none;
-  text-align: center;
   border: 2px solid;
   border-radius: 10px;
   padding: 10px;
   background: rgba(230, 50, 90, 0.8)
 }
 
-<!--
 a:hover
 {
   background-color: white;
 }
-//-->
