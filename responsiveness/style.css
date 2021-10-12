@@ -1,0 +1,60 @@
+*{
+  box-sizing: border-box;
+}
+
+html{
+  background-color: green;
+}
+
+img{
+  max-width: 100%;
+}
+
+p{
+  width: 600px;
+}
+
+body{
+  margin: 0px;
+}
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  color: blue;
+  gap: 20px;
+}
+
+.item{
+  display: flex;
+  background-color: pink;
+  width: 200px;
+  height: 200px;
+}
+
+.little-box{
+  background: yellow;
+  width: 50%;
+  height: 50%;
+}
+
+.object{
+  background: pink;
+  width: 50vw;
+  height: 50vh;
+}
+
+@media screen and (min-width:800px){
+  /*I go on the bottom*/
+  html{
+    background-color: red;
+    font-size: 40px;
+  }
+  .container{
+    flex-direction: column;
+  }
+
+  .item{
+    width: 100%;
+  }
+}

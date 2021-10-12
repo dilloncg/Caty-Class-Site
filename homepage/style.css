@@ -1,0 +1,37 @@
+img{
+  max-width: 100%;
+}
+body{
+  background: black;
+}
+
+img{
+  height: 100px;
+  margin-top: 700px;
+  margin-left: 1400px;
+}
+
+img:hover
+{
+  animation: expand 10s infinite linear;
+}
+
+@keyframes expand{
+  0%{
+    transform: scale(1);
+    display: none;
+  }
+  50%{
+    transform: scale(4);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+
+.clock{
+  position: fixed;
+  height: 300px;
+  margin-top: 900px;
+  margin-left: 100px;
+}
