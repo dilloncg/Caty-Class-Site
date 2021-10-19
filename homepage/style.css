@@ -1,14 +1,22 @@
-img{
+.screen{
   max-width: 100%;
-}
-body{
-  background: black;
+  margin: 0px;
+  animation-name: fade;
+  animation-duration: 2s;
 }
 
-img{
+body{
+  background: rgb(40, 120, 140)
+}
+
+.bed{
+  height: 800px;
+  margin-top: 900px;
+  margin-left: 1000px;
+}
+
+/*img{
   height: 100px;
-  margin-top: 700px;
-  margin-left: 1400px;
 }
 
 img:hover
@@ -27,11 +35,4 @@ img:hover
   100%{
     transform: scale(1);
   }
-}
-
-.clock{
-  position: fixed;
-  height: 300px;
-  margin-top: 900px;
-  margin-left: 100px;
 }
